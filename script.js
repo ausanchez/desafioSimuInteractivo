@@ -43,7 +43,7 @@ const tenistas = [tenista1, tenista2, tenista3, tenista4, tenista5]
 
 console.table(tenistas)
 
-tenistas.splice(2,2)
+tenistas.splice(2,3)
 
 console.table(tenistas)
 
